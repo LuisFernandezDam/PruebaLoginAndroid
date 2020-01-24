@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba Login</string>
+    <string name="username_hint">username</string>
+    <string name="signup_text">have you got an account? Register</string>
+</resources>
